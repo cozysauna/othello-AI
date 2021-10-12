@@ -18,5 +18,5 @@ You can put a piece by inputting a number where a star exists (ex.32)
 70 . . . . . . . .
 ```
 
-AI will put a piece about one second after you
+AI will put a piece about one second after you  
 You can finish the game if you input 'f'
