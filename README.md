@@ -5,7 +5,7 @@ execute ```main.py```
 ```
 $ python3 main.py
 ```
-You can put a piece by inputting number where a star exists (ex.32) 
+You can put a piece by inputting a number where a star exists (ex.32) 
 ``` 
    0 1 2 3 4 5 6 7
 00 . . . . . . ◯ ☆
@@ -19,3 +19,4 @@ You can put a piece by inputting number where a star exists (ex.32)
 ```
 
 AI will put a piece about one second after you
+You can finish the game if you input 'f'
